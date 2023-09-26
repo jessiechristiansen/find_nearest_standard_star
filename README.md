@@ -13,7 +13,5 @@ Here's an example input and output:
 jessiec$ python find_nearest_standard_star.py 01h32m34.34s -12d50m47.7s
 
 3.833720120568216 deg:  HR444  Multiple flag:  G , SpT:  A0III , Vmag =  6.59
-
 27.90645592171924 deg:  HR185  Multiple flag:  W , SpT:  A0V , Vmag =  6.06
-
 29.7289581353242 deg:  HR81  Multiple flag:  G , SpT:  A0V , Vmag =  6.56
